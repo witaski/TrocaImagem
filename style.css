@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+#img {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 20%;
+    height: 20%;
+}
+
